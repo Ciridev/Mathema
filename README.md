@@ -30,5 +30,5 @@ This is the Planned roadmap:
 * Linear Equations and Inequalities
 * Quadratic Equations and Inequalities
 * Cubic Equations and Inequalities
-* Quarti Equations and Inequalities [?] (A little bit overkill maybe)
+* Quartic Equations and Inequalities [?] (A little bit overkill maybe)
 * Systems of Equations
